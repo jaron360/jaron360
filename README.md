@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jaron! <br/> <a href="https://www.linkedin.com/in/jaron-edwards-02672119b/">Cybersecurity Student</a>
+<h1>Hello, I'm Jaron! <br/> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
