@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hello, I'm Jaron! <br/> <a href="https://www.linkedin.com/in/jaron-edwards-02672119b/">Aspiring Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Information Assurance Plan (for a fictitious company)</b>
+  - [Information Assurance Plan for Canyon Aeronautics](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Vulnerability Assessments (with Nessus)</b>
+  - [Credentialed and Non-credentialed scans](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/jaron-edwards-02672119b/
 
 <!--
-**jaron360/jaron360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
