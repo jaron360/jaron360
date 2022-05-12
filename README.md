@@ -5,7 +5,7 @@
 - <b>Information Assurance Plan (for a fictitious company)</b>
   - [Information Assurance Plan for Canyon Aeronautics](https://github.com/jaron360/Information-Assurance-Plan)
 - <b>Vulnerability Assessments (with Nessus)</b>
-  - [Credentialed and Non-credentialed scans](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
+  - [Credentialed and Non-credentialed scans](https://github.com/jaron360/Vulnerability-Scanning/blob/main/README.md)</b>
 
 <h2> 💻 Certifications:</h2>
 
