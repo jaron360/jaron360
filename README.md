@@ -10,7 +10,7 @@
 <h2> 💻 Certifications:</h2>
 
 - <b>Security +</b>
-  - [Security + ce ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security + ce ](https://www.credly.com/badges/6cc8dbc9-c7bb-4542-859f-dc55e4a3d294?source=linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
