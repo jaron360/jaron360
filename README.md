@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Information Assurance Plan (for a fictitious company)</b>
-  - [Information Assurance Plan for Canyon Aeronautics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Information Assurance Plan for Canyon Aeronautics](README.md)
 - <b>Vulnerability Assessments (with Nessus)</b>
   - [Credentialed and Non-credentialed scans](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b>
 
