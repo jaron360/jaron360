@@ -52,9 +52,14 @@ I'm a **Cloud Security Consultant/Architect** specializing in AWS security archi
 
 ## Projects
 
-### � Cloud Security
+### Cloud Security
 - 🚨 [Automated Incident Response Pipeline in AWS](https://github.com/jaron360/AutomatedIncidentResponsePipeline) - Event-driven automation for detecting and isolating compromised instances
 
+### Python
+- [My Python Projects](https://github.com/jaron360/Python-Projects) - Repository including python projects I have built
+- [Coffee Maker Program](https://github.com/jaron360/Python-Projects/tree/main/Day%2015%20-%20Coffee%20Maker%20Project) - Coffee machine program
+- [Coffee Maker (using OOP)](https://github.com/jaron360/Python-Projects/tree/main/Day%2016%20-%20Coffee%20Maker%20OOP) - Coffee machine program, built using Object Oriented Programming
+- [Higher or Lower Guessing Game](https://github.com/jaron360/Python-Projects/tree/main/Day%2014%20-%20Higher%20Lower%20Project) - Who has more followers?
 
 ---
 
