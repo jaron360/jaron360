@@ -53,7 +53,7 @@ I'm a **Cloud Security Consultant/Architect** specializing in AWS security archi
 ## Projects
 
 ### Cloud Security
-- 🚨 [Automated Incident Response Pipeline in AWS](https://github.com/jaron360/AutomatedIncidentResponsePipeline) - Event-driven automation for detecting and isolating compromised instances
+- [Automated Incident Response Pipeline in AWS](https://github.com/jaron360/AutomatedIncidentResponsePipeline) - Event-driven automation for detecting and isolating compromised instances
 
 ### Python
 - [My Python Projects](https://github.com/jaron360/Python-Projects) - Repository including python projects I have built
