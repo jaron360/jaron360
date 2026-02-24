@@ -104,6 +104,18 @@ I'm a **Cloud Security Consultant/Architect** specializing in AWS security archi
 
 ---
 
+## 📜 Certifications
+
+### AWS Certifications
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Security - Specialty
+- AWS Certified Machine Learning Engineer - Specialty
+- AWS Certified Machine Learning Engineer - Associate
+- AWS Certified AI Practitioner
+
+### Additional Certifications
+- Certified Kubernetes Administrator (CKA)
+- Security +
 
 ### 📚 Currently Pursuing
 
