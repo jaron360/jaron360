@@ -61,6 +61,8 @@ I'm a **Cloud Security Consultant/Architect** specializing in AWS security archi
 - [Coffee Maker (using OOP)](https://github.com/jaron360/Python-Projects/tree/main/Day%2016%20-%20Coffee%20Maker%20OOP) - Coffee machine program, built using Object Oriented Programming
 - [Higher or Lower Guessing Game](https://github.com/jaron360/Python-Projects/tree/main/Day%2014%20-%20Higher%20Lower%20Project) - Who has more followers?
 
+### Terraform
+- [WebApp](https://github.com/jaron360/Terraform-Practice/tree/main/WebApp) - Deploys a highly available web application infrastructure on AWS
 ---
 
 ## 🛠️ Technical Skills
