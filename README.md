@@ -63,6 +63,7 @@ I'm a **Cloud Security Consultant/Architect** specializing in AWS security archi
 
 ### Terraform
 - [WebApp](https://github.com/jaron360/Terraform-Practice/tree/main/WebApp) - Deploys a highly available web application infrastructure on AWS
+- [Private EKS Cluster Deployment](https://github.com/jaron360/Terraform-Practice/tree/main/eks-deployment) - Deploys a fully private EKS cluster with private subnets and managed node group
 ---
 
 ## 🛠️ Technical Skills
