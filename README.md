@@ -40,13 +40,6 @@
 
 I'm a **Cloud Security Consultant/Architect** specializing in AWS security architecture and AI-powered solutions. I design and implement enterprise-grade security solutions that leverage artificial intelligence for threat detection, incident response, and continuous compliance monitoring.
 
-### 🎯 What I Do
-
-- 🛡️ **Design secure cloud architectures** using defense-in-depth strategies
-- ⚡ **Automate security operations** through Infrastructure as Code and event-driven workflows
-- 📊 **Implement compliance frameworks** (SOC 2, ISO 27001, CIS Benchmarks) with automated validation
-- 🔍 **Architect solutions for threat hunting** using ML-powered anomaly detection and threat intelligence
-- 🎯 **Conduct threat modeling** to identify and mitigate security risks in system design
 
 ---
 
